@@ -5,11 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=subroxz11&label=PROFILE+VIEWS&color=000000&style=flat-square" alt="subroxz11" />
 </div>
 
-
+[![Download MY CV](https://img.shields.io/badge/Download%20CV-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/SubRoXz11/SubRoXz11/raw/main/SubratCV.pdf)
 <div align="">
 👨‍💻 A passionate <strong>Full-Stack Developer<strong/> crafting seamless digital experiences.<br/>
 💡 Turning ideas into reality with clean code and modern design.
    </div>
+
+
 
 
 ---
@@ -66,8 +68,13 @@
 </div>
 
 
-### 🏆 GitHub Trophies
+<!-- 🏆 GitHub Trophies
 
 <p align="">
     <img src="https://github-profile-trophy.vercel.app/?username=subroxz11&title=-Stars,-Followers,-Experience,-Issues,-Reviews" alt="subroxz11" />
 </p>
+
+-->
+
+
+
