@@ -1,22 +1,20 @@
+<img src="./introduction.svg" alt="Introduction SVG" />
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Subrat" alt="Typing SVG" />
-  <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="70" alt="Waving Hand GIF" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=subroxz11&label=PROFILE+VIEWS&color=000000&style=flat-square" alt="subroxz11" />
+  <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" height="30" width="30" alt="Waving Hand GIF" />
 </div>
 
 [![Download MY CV](https://img.shields.io/badge/Download%20CV-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/SubRoXz11/SubRoXz11/raw/main/SubratCV.pdf)
+
 <div align="">
 👨‍💻 A passionate <strong>Full-Stack Developer<strong/> crafting seamless digital experiences.<br/>
 💡 Turning ideas into reality with clean code and modern design.
-   </div>
-
-
-
+</div>
 
 ---
 
-### 🧰 My Development Toolkit
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=700&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=435&lines=My+Development+Toolkit" alt="Development Toolkit" />
 
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" width="80" height="80"/>
@@ -43,12 +41,9 @@
   <img src="https://cdn.dribbble.com/userupload/42461346/file/original-fb89310f46ff03f173c67db026ba6af5.gif" alt="figma" width="100" height="100"/>
 </p>
 
-
-
-
 ---
 
-### 📊 My GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=700&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=435&lines=My+GitHub+Stats" alt="Typing SVG" />
 
 <div align="">
   <table>
