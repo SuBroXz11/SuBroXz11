@@ -8,7 +8,7 @@
 [![Download MY CV](https://img.shields.io/badge/Download%20CV-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/SubRoXz11/SubRoXz11/raw/main/SubratCV.pdf)
 
 <div align="">
-👨‍💻 A passionate <strong>Full-Stack Developer<strong/> crafting seamless digital experiences.<br/>
+👨‍💻 A passionate <strong>Software Engineer<strong/> crafting seamless digital experiences.<br/>
 💡 Turning ideas into reality with clean code and modern design.
 </div>
 
